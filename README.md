@@ -35,7 +35,7 @@ Ce projet a pour objectif d'explorer des scénarios complexes d'optimisation de 
 - Un compilateur C/C++ compatible avec OpenMP (comme GCC).
 - - Python avec les bibliothèques Matplotlib et NumPy.
 
-## Execution 
+## Exécution  
 Sur MinGW ou MSYS2. Pour MSYS2, assurez-vous d'installer le package mingw-w64.
  
  ```bash
