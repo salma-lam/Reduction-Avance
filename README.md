@@ -4,14 +4,6 @@
 
 Ce projet a pour objectif d'explorer des scénarios complexes d'optimisation de calculs parallèles en utilisant la réduction en OpenMP. Vous mettrez en pratique les concepts de réduction et explorerez des notions avancées telles que la gestion des dépendances, l'équilibrage de charge entre threads, et la réduction des temps d'attente.
 
-### Objectifs
-
-1. Comprendre les concepts d'optimisation dans des environnements de calcul parallèle avec OpenMP.
-2. Mettre en place des mécanismes d'optimisation pour minimiser les goulots d'étranglement, en gérant correctement les variables partagées et locales.
-3. Évaluer l'impact de différentes stratégies de réduction sur la performance et l'efficacité des threads.
-4. Expérimenter avec des tailles de données et des modèles de charge de travail variables pour observer les gains de performances.
-
-
 ## Étapes principales
 
 #### Phase 1 : Implémentation d'un Calcul Parallèle Simple avec Réduction
