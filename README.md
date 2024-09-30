@@ -33,5 +33,12 @@ Ce projet a pour objectif d'explorer des scénarios complexes d'optimisation de 
 
 - [OpenMP](https://www.openmp.org/)
 - Un compilateur C/C++ compatible avec OpenMP (comme GCC).
+- - Python avec les bibliothèques Matplotlib et NumPy.
 
+## Execution 
+Sur MinGW ou MSYS2. Pour MSYS2, assurez-vous d'installer le package mingw-w64.
+ 
+ ```bash
 
+gcc -fopenmp -o code code.c
+./code 
