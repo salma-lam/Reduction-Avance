@@ -28,7 +28,8 @@ Ce projet a pour objectif d'explorer des scénarios complexes d'optimisation de 
 - - Python avec les bibliothèques Matplotlib et NumPy.
 
 ## Exécution  
-Sur MinGW ou MSYS2. Pour MSYS2, assurez-vous d'installer le package mingw-w64.
+Sur MinGW ou MSYS2. 
+Pour MSYS2, assurez-vous d'installer le package mingw-w64.
  
  ```bash
 
